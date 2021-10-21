@@ -1,2 +1,2 @@
 Hi welcome
-Today we are learning GIT
+Today we are learning to push tags
