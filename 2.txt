@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi welcome to aparna
 Today we are learning GIT aparna
+=======
+Hi to
+Today we are learning reva
+>>>>>>> dev1
